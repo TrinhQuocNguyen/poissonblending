@@ -8,5 +8,7 @@
 ## 使い方
 poissonblending.py の test 関数を見ていただければ一瞬でわかるかと思います。今のところ mixed blend は未実装です。
 
+python3 seamless_data_maker
+
 ## その他
 [ブログの記事](http://blog.parosky.net/archives/1910) もありますので宜しければご覧ください。
